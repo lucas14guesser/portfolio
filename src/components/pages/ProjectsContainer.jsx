@@ -7,7 +7,7 @@ const ProjectsContainer = () => {
             Clique no botão abaixo para ser direcionado aos meus
             projetos no GitHub.
         </p>
-        <a href='https://github.com/lucas14guesser?tab=repositories' className='btn'>
+        <a href='https://github.com/lucas14guesser?tab=repositories' className='btn' target='_blank'>
             Ver Projetos
         </a>
     </section>
